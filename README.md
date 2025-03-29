@@ -1,4 +1,5 @@
 # Hagwarts_management
-Thia is my  first project
+This is my  first project
+</br>
 Author - Sunny
 
